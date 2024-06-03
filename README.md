@@ -2,4 +2,4 @@
 
 Python implementation of the framework MI-GBT proposed in "A Spatial Loss Function for Gradient Boosted Trees".
 
-An example can be found here.
+An example can be found [here](example.ipynb).
