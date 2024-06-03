@@ -4,7 +4,7 @@ Python implementation of the framework MI-GBT proposed in the paper "A Spatial L
 
 An example can be found [here](example.ipynb).
 
-### Dependencies
+Dependencies:
 - LightGBM
 - XGBoost
 - NumPy
